@@ -1,0 +1,23 @@
+# 抓取缓存与原始页面（.gitignore 约定）
+*.html
+
+# 中间工作目录
+*.ref/
+
+# 生成的工作簿：只保留 examples 下的示例
+/*.xlsx
+!examples/*.xlsx
+
+# 临时校验输出
+*_verify*.txt
+*_ls.txt
+*_probe*.txt
+*_log.txt
+
+# 本机私有补充（环境细节 / 真实战例 / 公司背景），绝不入库
+local/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
