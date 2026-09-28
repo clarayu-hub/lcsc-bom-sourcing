@@ -132,7 +132,7 @@ lcsc-bom-sourcing/
 ├── README.md / README.en.md    # 中文 / 英文说明
 ├── CHANGELOG.md                # 版本变更记录
 ├── CONTRIBUTING.md             # 贡献指南（禁止提交真实内部数据）
-├── LICENSE / NOTICE            # MIT + 商标与非官方声明
+├── NOTICE                      # 商标与非官方声明（未附开源许可证）
 ├── references/
 │   ├── site-notes.md           # 站点结构、URL 规则、反爬兜底、库存字段口径
 │   ├── pitfalls.md             # 已踩过的坑（含实测案例）
@@ -196,7 +196,9 @@ lcsc-bom-sourcing/
 
 ## 许可
 
-MIT License，见 [LICENSE](LICENSE)。
+本仓库**未附开源许可证**，保留所有权利：内容仅供查看，未经作者许可不得复制、修改或再分发；如需使用请开 issue 联系。
+
+商标与非官方声明见 [NOTICE](NOTICE)。
 
 ---
 
