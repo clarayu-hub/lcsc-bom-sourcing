@@ -34,4 +34,4 @@
 
 ## 许可
 
-贡献即表示同意以 Apache License 2.0 授权。
+贡献即表示同意以 MIT License 授权。

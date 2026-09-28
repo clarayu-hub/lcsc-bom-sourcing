@@ -132,7 +132,7 @@ lcsc-bom-sourcing/
 ├── README.md / README.en.md    # 中文 / 英文说明
 ├── CHANGELOG.md                # 版本变更记录
 ├── CONTRIBUTING.md             # 贡献指南（禁止提交真实内部数据）
-├── LICENSE / NOTICE            # Apache-2.0 + 版权声明
+├── LICENSE / NOTICE            # MIT + 商标与非官方声明
 ├── references/
 │   ├── site-notes.md           # 站点结构、URL 规则、反爬兜底、库存字段口径
 │   ├── pitfalls.md             # 已踩过的坑（含实测案例）
@@ -196,7 +196,7 @@ lcsc-bom-sourcing/
 
 ## 许可
 
-Apache License 2.0，见 [LICENSE](LICENSE)。
+MIT License，见 [LICENSE](LICENSE)。
 
 ---
 
